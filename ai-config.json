@@ -1,0 +1,16 @@
+{
+    "gemini": {
+        "defaultModel": "gemini-2.0-flash",
+        "fallbackModels": [
+            "gemini-1.5-flash",
+            "gemini-1.5-pro"
+        ]
+    },
+    "groq": {
+        "defaultModel": "llama-3.3-70b-versatile",
+        "fallbackModels": [
+            "llama3-70b-8192"
+        ]
+    },
+    "configVersion": 1
+}
