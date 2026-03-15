@@ -7,7 +7,7 @@
         ]
     },
     "groq": {
-        "defaultModel": "llama-3.3-70b-versatile",
+        "defaultModel": "llama-3.2-11b-vision-preview",
         "fallbackModels": [
             "llama3-70b-8192"
         ]
